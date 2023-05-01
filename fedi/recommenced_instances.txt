@@ -4,7 +4,7 @@ mastodon.social
 c.im
 infosec.exchange
 cdrom.tokyo
-minidisc.tokyo
+kolektiva.social
 miruku.cafe
 asbestos.cafe
 worm.pink
